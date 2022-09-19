@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I have several devices I want to turn off using my SmartHome setup (Homebridge). As these devices are not smart, I came up with the idea to build some device that I cant trigger with with homebridge to press a button.
+I have several devices I want to turn off using my SmartHome setup (Homebridge). As these devices are not smart, I came up with the idea to build some device that I can trigger with homebridge to press a button.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
